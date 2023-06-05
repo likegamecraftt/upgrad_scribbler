@@ -1,0 +1,38 @@
+.bodypost{
+    padding: 30px 60px 0px 60px;
+    
+}
+
+.bodyhead{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    font-size: x-large;
+    font-stretch: wider;
+}
+
+.bodydes{
+    padding: 20px 0px;
+    text-align: justify;
+}
+
+.make-it-slow {
+    box-shadow: 10px 10px 10px rgba(231, 0, 0, 0.15);
+    transition: box-shadow 0.3s ease-in-out;
+    
+  }
+  .make-it-slow:hover {
+    box-shadow: 10px 10px 15px rgba(182, 0, 0, 0.3);
+    cursor: pointer;
+  }
+
+  .textyarea{
+    border:1px;
+    border-color: gray;
+    border-style: solid ;
+
+
+  }
